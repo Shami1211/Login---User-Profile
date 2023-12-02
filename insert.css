@@ -1,0 +1,54 @@
+body {
+  background-color: #1a2537;
+  color: white;
+}
+
+.container {
+  background-color: white;
+  color: #1a2537;
+  width: 450px;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+.regis {
+  padding: 10px;
+  font-size: 17px;
+  font-weight: bold;
+  margin: 50px 50px 0;
+  border: 0;
+  border-radius: 5px;
+  background-color: rgb(114, 114, 203);
+  color: white;
+  cursor: pointer;
+}
+
+.d {
+  background-color: red;
+  cursor: pointer;
+}
+label {
+  padding: 50px 0;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+input {
+  width: 100%;
+  padding: 5px;
+  margin: 10px 0;
+}
+
+table {
+  width: 100%;
+}
+
+h2 {
+  text-align: center;
+  font-size: 35px;
+}
+
+.full {
+  margin-left: 530px;
+  padding: 20px 0 0 0;
+}
